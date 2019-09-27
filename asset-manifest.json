@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crud/static/css/main.cb9a33a3.chunk.css",
+    "main.js": "/react-crud/static/js/main.23c02f73.chunk.js",
+    "main.js.map": "/react-crud/static/js/main.23c02f73.chunk.js.map",
+    "runtime-main.js": "/react-crud/static/js/runtime-main.043e4c30.js",
+    "runtime-main.js.map": "/react-crud/static/js/runtime-main.043e4c30.js.map",
+    "static/js/2.e88548fa.chunk.js": "/react-crud/static/js/2.e88548fa.chunk.js",
+    "static/js/2.e88548fa.chunk.js.map": "/react-crud/static/js/2.e88548fa.chunk.js.map",
+    "index.html": "/react-crud/index.html",
+    "precache-manifest.599dc7088164e33b7916eb083c35a1bc.js": "/react-crud/precache-manifest.599dc7088164e33b7916eb083c35a1bc.js",
+    "service-worker.js": "/react-crud/service-worker.js",
+    "static/css/main.cb9a33a3.chunk.css.map": "/react-crud/static/css/main.cb9a33a3.chunk.css.map"
+  }
+}
